@@ -151,9 +151,8 @@
     font-size: 22px;
     color: #FFFFFF;
     font-family: "Raleway", sans-serif;
-    border-bottom: 1px solid black black white;
+    border-bottom: 1px solid white;
     background-color: black;
-    margin-bottom: 1px;
    }
 
    .text__2 {
@@ -165,7 +164,6 @@
     font-family: "Raleway", sans-serif;
     border-bottom: 1px solid white;
     background-color: black;
-    margin-bottom: 1px;
    }
 
    .text__4 {
@@ -186,11 +184,8 @@
     height: 51px;
     color: #FFFFFF;
     font-family: 'Raleway', sans-serif;
-    border-bottom: 2px;
-    border-color: black black orange;
     background-color: black;
-    border-style: solid;
-    margin-bottom: 1px;
+    border-bottom: 2px solid black;
    }
 
    .text__5 {
