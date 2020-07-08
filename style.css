@@ -125,6 +125,11 @@
     
     }
 
+    .block {
+       
+        text-align: center;
+    }
+
    .text__block {
     display: inline-block;
     margin: 0 auto;
@@ -136,62 +141,65 @@
 
    li {
     list-style-type: none; 
+    padding: 10px;
    }
 
    .text__1 {
     margin: 0 auto;
-    height: 59px;
+    padding: 10px;
     text-align: center;
-    font-size: 20px;
+    font-size: 22px;
     color: #FFFFFF;
     font-family: "Raleway", sans-serif;
-    border: 1px solid black black white;
+    border-bottom: 1px solid black black white;
     background-color: black;
+    margin-bottom: 1px;
    }
 
    .text__2 {
     margin: 0 auto;
-    height: 100px;
+    padding: 13px;
     text-align: center;
     font-size: 80px;
     color: #FFFFFF;
     font-family: "Raleway", sans-serif;
-    border: 1px solid white;
+    border-bottom: 1px solid white;
     background-color: black;
+    margin-bottom: 1px;
    }
 
    .text__4 {
     margin: 0 auto;
-    height: 40px;
+    padding: 10px;
     text-align: center;
     font-size: 14px;
     color: #9b9292;
     font-family: "Raleway", sans-serif;
-    border: 1px solid #F5F5F5;
+    border-bottom: 1px solid #F5F5F5;
     background-color: #FFFFFF;
    }
 
    .text__3 {
     margin: 0 auto;
     text-align: center;
-    font-size: 14px;
+    padding: 10px;
     height: 51px;
     color: #FFFFFF;
     font-family: 'Raleway', sans-serif;
-    border: 2px;
+    border-bottom: 2px;
     border-color: black black orange;
     background-color: black;
     border-style: solid;
+    margin-bottom: 1px;
    }
 
    .text__5 {
     margin: 0 auto;
-    height: 40px;
+    padding: 10px;
     text-align: center;
     font-size: 16px;
     color: #FFFFFF;
     font-family: "Raleway", sans-serif;
-    border: 1px solid white;
     background-color: orange;
    }
 
